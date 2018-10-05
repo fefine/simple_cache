@@ -2,6 +2,8 @@
 * cache sth in memory
 * a *get* operation will be refresh the expire time if key not expired.
 * only support little count k-v
+
+refer: [https://github.com/patrickmn/go-cache](https://github.com/patrickmn/go-cache)
 ### usage
 
 
